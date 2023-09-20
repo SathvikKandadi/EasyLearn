@@ -1,0 +1,19 @@
+.appBar{
+    height: 5vh;
+    min-height: 5vh;
+    background-color: #9b9b9b;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.begin{
+    margin-top: 12px;
+    margin-left: 5px;
+    font-size: large;
+}
+
+

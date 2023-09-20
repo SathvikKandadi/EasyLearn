@@ -1,0 +1,33 @@
+.uploadBox{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.courseHeader{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    margin-bottom: 7px;
+}
+
+.titleInput{
+    width: 100%;
+}
+
+.descriptionInput{
+    width: 100%;
+}
+
+.priceInput{
+    width: 100%;
+}
+
+.imageInput{
+    width: 100%;
+}
+
+.videoInput{
+    width: 100%;
+}

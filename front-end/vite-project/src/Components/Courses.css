@@ -1,0 +1,12 @@
+.coursesMain{
+   
+    margin-top: 75px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.gap{
+    margin:12px;
+}

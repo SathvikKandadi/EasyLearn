@@ -1,0 +1,26 @@
+.courseContent{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: no-wrap;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.lecture{
+    margin-top: 50px;
+    border: solid;
+    width: 80%;
+    height: 635px;
+}
+
+.doubt{
+    margin-top: 5px;
+    border: solid;
+}
+
+.sidebar{
+    margin-top: 50px;
+    border: 5px;
+    border: solid;
+    width: 20%;
+}

@@ -1,0 +1,33 @@
+.loginBox{
+    background-color: #f0f0f0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.emailInput{
+    width: 100%;
+}
+
+.passwordInput{
+    width: 100%;
+}
+
+.gap{
+    margin:12px;
+}
+
+.buttonDiv{
+    display: flex;
+    justify-content: center;
+}
+
+.heading{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    margin-bottom: 7px;
+}
